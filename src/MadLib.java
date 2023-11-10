@@ -42,6 +42,6 @@ public class MadLib {
 //now print story to the dos window
         System.out.println(story);
 
-    }//constructor method
+    }//constructor method.
 
 }
