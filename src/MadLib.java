@@ -1,12 +1,12 @@
 public class MadLib {
-    public int number1 = 5;
+    public int number1 = 100;
     public int number2 = 9;
     public int wholeNumberBetween1And4 = 2;
     public String adjective = "tiring";
     public String miltonTeacher = "Ms. Lockwood";
     public String miltonDean = "Mr. Furst";
     public String season = "fall";
-    public String classmate = "Melo";
+    public String classmate = "Teddy";
     public String city = "Boston";
     public String noun = "pencil";
     public String pluralNoun = "cars";
